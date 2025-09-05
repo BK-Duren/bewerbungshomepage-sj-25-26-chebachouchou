@@ -1,0 +1,10 @@
+/*  -----------------------------------------        */
+/*  Übergreifend / Body                              */
+/*  -----------------------------------------        */
+html, body {
+ background-image:url("");
+ background-repeat:no-repeat; 
+ background-size: cover;      
+ overflow:hidden;             
+ font-size:12pt;
+ }
